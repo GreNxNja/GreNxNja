@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/prithwijitghos4" target="blank"><img src="https://img.shields.io/twitter/follow/prithwijitghos4?logo=twitter&style=for-the-badge" alt="prithwijitghos4" /></a> </p>
 
-- 🔭 I’m currently working on [Myrtle](https://myrtle-eta.vercel.app/)
+- 🔭 I’m currently working on a full fledged working Spotify with better features
 
 - 🌱 I’m currently learning **Next.js & Flutter**
 
