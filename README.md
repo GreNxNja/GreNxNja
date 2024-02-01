@@ -9,7 +9,6 @@
 
 - 📫 Let's connect! Reach out to me at dev.prith13@gmail.com for collaborations or discussions.
 
-- ⚡ Fun fact: The QWERTY layout, which we commonly use in keyboards, was originally designed for typewriters to prevent jamming by slowing down typing speed.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
