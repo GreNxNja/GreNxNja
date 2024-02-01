@@ -9,8 +9,8 @@
 
 - 📫 Let's connect! Reach out to me at dev.prith13@gmail.com for collaborations or discussions.
 
-- ⚡ Fun fact **Im shit scared of the dark(still)**
-
+- ⚡ Fun fact The QWERTY keyboard layout was designed to slow down typing: The QWERTY layout, which we commonly use in keyboards, was originally designed for typewriters to prevent jamming by slowing down typing speed.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prithwijitghos4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithwijitghos4" height="30" width="40" /></a>
