@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/prithwijitghos4" target="blank"><img src="https://img.shields.io/twitter/follow/prithwijitghos4?logo=twitter&style=for-the-badge" alt="prithwijitghos4" /></a> </p>
 
-🔭 Currently, I'm passionately crafting a feature-rich Spotify alternative, aiming to redefine the music streaming experience.
+- 🔭 Currently, I'm passionately crafting a feature-rich Spotify alternative, aiming to redefine the music streaming experience.
 
-🌱 Actively honing my skills in Next.js & Flutter to stay at the forefront of web and mobile development.
+- 🌱 Actively honing my skills in Next.js & Flutter to stay at the forefront of web and mobile development.
 
-📫 Let's connect! Reach out to me at dev.prith13@gmail.com for collaborations or discussions.
+- 📫 Let's connect! Reach out to me at dev.prith13@gmail.com for collaborations or discussions.
 
 - ⚡ Fun fact **Im shit scared of the dark(still)**
 
