@@ -7,7 +7,7 @@
 
 - 🌱 Actively honing my skills in Next.js & Flutter to stay at the forefront of web and mobile development.
 
-- 📫 Let's connect! Reach out to me at `dev.prith13@gmail.com` for collaborations or discussions.
+- 📫 Let's connect! Reach out to me at dev.prith13@gmail.com for collaborations or discussions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
