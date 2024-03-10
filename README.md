@@ -5,7 +5,7 @@
   <a href="https://twitter.com/prithwijitghos4" target="blank"><img src="https://img.shields.io/twitter/follow/prithwijitghos4?logo=twitter&style=for-the-badge" alt="prithwijitghos4" /></a>
 </p>
 
-- 🚀 Currently, I'm working on a Discord-inspired platform, exploring real-time communication with unique features and a user-friendly interface.
+- 🚀 Currently, indulged in a Miro-inspired platform, delving into real-time communication with innovative features and an intuitive interface.
 
 - 💻 Actively honing my skills in Next.js & Flutter to lead the charge in modern web and mobile development.
 
