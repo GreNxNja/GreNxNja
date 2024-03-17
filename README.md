@@ -5,7 +5,7 @@
   <a href="https://twitter.com/prithwijitghos4" target="blank"><img src="https://img.shields.io/twitter/follow/prithwijitghos4?logo=twitter&style=for-the-badge" alt="prithwijitghos4" /></a>
 </p>
 
-- 🚀 Currently,on standby
+- 🚀 Currently working on Lingo: Next-gen language learning SaaS with engaging courses, gamification, and secure authentication, deployed on Vercel.
 
 - 💻 Actively honing my skills in Next.js & Flutter to lead the charge in modern web and mobile development.
 
