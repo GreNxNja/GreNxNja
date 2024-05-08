@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Prithwijit</h1>
 <h3 align="center">"An engineer by profession, a melophile at heart, and a captivating storyteller by passion."</h3>
 
-<p align="left"> 
-  <a href="https://twitter.com/prithwijitghos4" target="blank"><img src="https://img.shields.io/twitter/follow/prithwijitghos4?logo=twitter&style=for-the-badge" alt="prithwijitghos4" /></a>
-</p>
 
 - 🚀 Currently working on CashHarbour an Enterprise Ready Finance App
   
