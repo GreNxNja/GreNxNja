@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Prithwijit</h1>
 <h3 align="center">"An engineer by profession, a melophile at heart, and a captivating storyteller by passion."</h3>
 
-- 🚀 Currently working on Something
+- 🚀 Currently  on standby
 - 💻 Actively honing my skills in Next.js & Flutter to lead the charge in modern web and mobile development.
 
 - 📫 Let's connect! Reach out to me at dev.prith13@gmail.com for collaborations or intriguing tech discussions.
