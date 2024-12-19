@@ -31,6 +31,9 @@ I'm always open to collaborations and engaging tech discussions. Feel free to re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basiliskftw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ace.ntric)
 
+
+Just f*cking around and finding out ;)
+
 ---
 
 💻 *"Transforming designs into reality, one line of code at a time."*
