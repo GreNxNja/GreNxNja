@@ -16,7 +16,6 @@ I'm a passionate engineer and developer with a love for music and storytelling. 
 ## 💡 Skills & Expertise
 
 - Web Development
-- Mobile App Development
 - Turning Designs into Functional Applications
 - Storyteller
 
