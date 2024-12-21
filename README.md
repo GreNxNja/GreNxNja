@@ -7,6 +7,8 @@
 ---
 ![GitHub Contribution Snake](./github-user-contribution.svg)
 ---
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GreNxNja&theme=radical)
+---
 ## About Me
 
 I'm a passionate engineer and developer with a love for music and storytelling. I thrive on bringing designs to life through code, creating seamless and engaging user experiences.
