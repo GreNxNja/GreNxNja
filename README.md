@@ -2,6 +2,8 @@
 
 ### 🚀 Engineer | 🎵 Melophile | 💻 Developer | 📖 Storyteller
 
+![Profile Views](https://komarev.com/ghpvc/?username=GreNxNja&color=blue)
+
 ---
 
 ## About Me
@@ -30,7 +32,6 @@ I'm always open to collaborations and engaging tech discussions. Feel free to re
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prithwijitghos4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basiliskftw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ace.ntric)
-
 
 Just f*cking around and finding out ;)
 
