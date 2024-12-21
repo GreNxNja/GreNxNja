@@ -3,10 +3,10 @@
 ### 🚀 Engineer | 🎵 Melophile | 💻 Developer | 📖 Storyteller
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GreNxNja&color=blue)
-![GitHub Contribution Snake](./github-user-contribution.svg)
 
 ---
-
+![GitHub Contribution Snake](./github-user-contribution.svg)
+---
 ## About Me
 
 I'm a passionate engineer and developer with a love for music and storytelling. I thrive on bringing designs to life through code, creating seamless and engaging user experiences.
