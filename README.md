@@ -7,7 +7,8 @@
 ---
 ![GitHub Contribution Snake](./github-user-contribution.svg)
 ---
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GreNxNja&theme=radical)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+
 ---
 ## About Me
 
