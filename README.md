@@ -7,7 +7,8 @@
 ---
 ![GitHub Contribution Snake](./github-user-contribution.svg)
 ---
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GreNxNja&show_icons=true&theme=radical)
+
 
 ---
 ## About Me
