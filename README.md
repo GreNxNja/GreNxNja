@@ -38,3 +38,6 @@ Just f*cking around and finding out ;)
 ---
 
 💻 *"Transforming designs into reality, one line of code at a time."*
+
+![GitHub Contribution Snake](./github-user-contribution.svg)
+
