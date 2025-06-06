@@ -14,7 +14,7 @@ I'm a passionate engineer and developer with a love for music and storytelling. 
 
 ## 🔭 Current Focus
 
-- Developing **NextRead**, an exciting project in the works
+- Developing **Bork**, an exciting project in the works
 - Mastering **Next.js** and **Flutter** for cutting-edge web and mobile development
 
 ## 💡 Skills & Expertise
