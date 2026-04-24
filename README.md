@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=GreNxNja&color=blue)
 
 ---
-![GitHub Contribution Snake](./github-user-contribution.svg)
+![GitHub Contribution Snake](./snake.svg)
 ---
 
 ## About Me
